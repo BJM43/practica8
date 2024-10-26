@@ -1,1 +1,0 @@
-{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"E:/DevOps-projects/Practica8/web","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"E:/DevOps-projects/Practica8","disabled":false,"__vagrantfile":true}}}
